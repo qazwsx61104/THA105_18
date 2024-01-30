@@ -1,0 +1,151 @@
+
+12月 19, 2023 16:51:12.877 NEW SESSION
+12月 19, 2023 16:51:12.877 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+12月 19, 2023 17:21:05.824 [1708:9064:1219/172105.823:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12月 19, 2023 17:21:07.990 [1708:9064:1219/172107.989:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12月 19, 2023 17:21:11.305 [1708:9064:1219/172111.305:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12月 19, 2023 17:21:14.809 [1708:9064:1219/172114.809:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12月 19, 2023 17:56:39.93 [1708:9064:1219/175639.092:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12月 19, 2023 17:56:41.542 [1708:9064:1219/175641.542:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+12月 24, 2023 09:15:21.421 NEW SESSION
+12月 24, 2023 09:15:21.421 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+12月 24, 2023 17:28:07.783 NEW SESSION
+12月 24, 2023 17:28:07.783 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1月 02, 2024 10:58:12.21 NEW SESSION
+1月 02, 2024 10:58:12.21 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1月 11, 2024 09:24:46.866 NEW SESSION
+1月 11, 2024 09:24:46.867 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 11, 2024 12:51:05.49 [25132:8684:0111/125105.049:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+1月 11, 2024 12:51:24.509 [25132:8684:0111/125124.508:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+1月 11, 2024 16:24:54.34 [25132:840:0111/162454.033:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+1月 11, 2024 16:26:53.248 [25132:840:0111/162653.247:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+1月 11, 2024 16:48:30.309 [25132:8684:0111/164830.309:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+1月 11, 2024 16:51:35.300 [25132:8684:0111/165135.300:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+1月 14, 2024 17:03:32.784 NEW SESSION
+1月 14, 2024 17:03:32.784 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1月 15, 2024 10:45:06.203 NEW SESSION
+1月 15, 2024 10:45:06.203 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 13:33:55.504 [2704:3516:0115/133355.503:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1月 15, 2024 15:38:03.292 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 15:47:51.316 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 15:51:57.849 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 15:53:03.916 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 15:53:18.606 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 16:32:53.565 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 16:34:04.966 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 16:45:08.664 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1月 15, 2024 16:46:47.813 NEW SESSION
+1月 15, 2024 16:46:47.813 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 16:48:54.922 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 16:50:00.216 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 15, 2024 17:02:27.281 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1月 19, 2024 17:37:42.899 NEW SESSION
+1月 19, 2024 17:37:42.899 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 19, 2024 19:10:25.147 [9908:22776:0119/191025.145:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 19, 2024 19:12:55.205 [9908:22776:0119/191255.205:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+1月 19, 2024 19:13:00.345 [9908:22776:0119/191300.345:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 19, 2024 19:13:16.866 [9908:22776:0119/191316.866:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 19, 2024 19:13:29.213 [9908:22776:0119/191329.213:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 19, 2024 19:13:31.561 [9908:22776:0119/191331.560:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 19, 2024 19:13:34.747 [9908:1928:0119/191334.745:ERROR:device_event_log_impl.cc(192)] [19:13:34.737] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 元素找不到。 (0x490)
+1月 19, 2024 19:14:02.676 [9908:22776:0119/191402.675:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 19, 2024 19:14:04.701 [9908:22776:0119/191404.700:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 19, 2024 19:45:36.909 [9908:22776:0119/194536.907:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 19, 2024 22:45:33.826 [9908:22776:0119/224533.826:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+1月 20, 2024 08:55:01.167 [9908:25184:0120/085501.166:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_TIMED_OUT)
+1月 20, 2024 10:23:36.393 [9908:1928:0120/102336.393:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+1月 25, 2024 18:03:38.450 NEW SESSION
+1月 25, 2024 18:03:38.450 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 25, 2024 20:53:17.33 [8064:18868:0125/205317.032:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+1月 28, 2024 09:36:02.565 NEW SESSION
+1月 28, 2024 09:36:02.565 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 28, 2024 09:40:20.96 [4352:26220:0128/094020.096:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1月 28, 2024 10:42:31.329 [4352:23744:0128/104231.328:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 28, 2024 10:42:31.636 [4352:23744:0128/104231.636:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 28, 2024 10:43:43.484 [4352:23744:0128/104343.483:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 28, 2024 10:44:48.694 [4352:23744:0128/104448.694:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 28, 2024 10:44:49.813 [4352:23744:0128/104449.813:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+1月 28, 2024 11:15:40.898 NEW SESSION
+1月 28, 2024 11:15:40.898 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 28, 2024 11:22:40.889 [19888:13676:0128/112240.888:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 28, 2024 11:29:26.438 [19888:13676:0128/112926.436:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+1月 28, 2024 13:23:44.132 [19888:13676:0128/132344.132:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 28, 2024 13:41:43.875 [19888:19584:0128/134143.875:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1月 28, 2024 13:41:46.895 [19888:19584:0128/134146.895:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1月 28, 2024 14:00:39.247 [19888:13676:0128/140039.247:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 28, 2024 15:54:09.247 [19888:13676:0128/155409.246:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 28, 2024 16:15:17.328 [19888:13676:0128/161517.328:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -7
+1月 28, 2024 16:27:55.470 [19888:19584:0128/162755.469:ERROR:interface_endpoint_client.cc(702)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+1月 28, 2024 16:34:36.702 NEW SESSION
+1月 28, 2024 16:34:36.702 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 28, 2024 17:38:21.39 [17236:19936:0128/173821.038:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 28, 2024 20:38:21.94 [17236:19936:0128/203821.094:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 28, 2024 23:21:45.358 [17236:10464:0128/232145.357:ERROR:event_ack_data.cc(47)] StartExternalRequest failed: 2
+
+1月 29, 2024 16:08:39.522 NEW SESSION
+1月 29, 2024 16:08:39.523 [11804:11440:0129/160839.521:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 29, 2024 16:08:39.523 [11804:11440:0129/160839.522:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:08:39.523 [11804:11440:0129/160839.522:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:08:39.969 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 29, 2024 16:09:00.882 [11804:11440:0129/160900.881:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:09:02.41 [11804:11440:0129/160902.040:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:09:06.280 [11804:11440:0129/160906.279:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 29, 2024 16:09:52.600 [11804:11440:0129/160952.600:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:09:54.453 [11804:11440:0129/160954.453:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:09:55.315 [11804:11440:0129/160955.314:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 29, 2024 16:11:29.825 [11804:11440:0129/161129.824:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:11:40.29 [11804:11440:0129/161140.029:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:11:53.702 [11804:11440:0129/161153.701:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 29, 2024 16:14:21.641 [11804:11440:0129/161421.641:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:14:48.938 [11804:11440:0129/161448.938:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:14:54.518 [11804:11440:0129/161454.518:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 29, 2024 16:15:33.20 [11804:13576:0129/161533.020:ERROR:device_event_log_impl.cc(192)] [16:15:33.019] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 元素找不到。 (0x490)
+1月 29, 2024 16:21:03.471 [11804:11440:0129/162103.470:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:21:27.593 [11804:11440:0129/162127.592:ERROR:registration_request.cc(274)] Registration URL fetching failed.
+1月 29, 2024 16:22:43.996 [11804:11440:0129/162243.996:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 29, 2024 16:28:41.258 [11804:13576:0129/162841.257:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+1月 29, 2024 16:38:14.554 [11804:13576:0129/163814.553:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+1月 29, 2024 16:58:34.271 [11804:13576:0129/165834.270:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:35.109 [11804:13576:0129/165835.109:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:35.385 [11804:13576:0129/165835.384:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:35.493 [11804:13576:0129/165835.493:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:35.610 [11804:13576:0129/165835.609:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:35.744 [11804:13576:0129/165835.743:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:36.286 [11804:13576:0129/165836.285:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:36.407 [11804:13576:0129/165836.406:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:37.181 [11804:13576:0129/165837.181:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:37.391 [11804:13576:0129/165837.391:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:37.425 [11804:13576:0129/165837.424:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 16:58:37.442 [11804:13576:0129/165837.441:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.106 s for first_image_paint 0.099 s
+1月 29, 2024 17:27:21.382 [11804:13576:0129/172721.382:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+1月 29, 2024 17:38:30.505 [11804:11440:0129/173830.504:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 29, 2024 17:50:18.308 [11804:11440:0129/175018.307:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -109
+1月 29, 2024 21:51:43.753 [11804:11440:0129/215143.752:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+1月 30, 2024 08:53:45.225 [11804:11440:0130/085345.224:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 30, 2024 08:53:45.229 [11804:17596:0130/085345.229:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+1月 30, 2024 08:53:45.243 [11804:17596:0130/085345.243:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+1月 30, 2024 08:53:49.285 [11804:11440:0130/085349.284:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 30, 2024 08:53:49.285 [11804:4064:0130/085349.285:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+1月 30, 2024 08:53:52.563 [11804:11440:0130/085352.563:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 30, 2024 08:53:52.564 [11804:11660:0130/085352.563:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+1月 30, 2024 08:53:57.288 [11804:11440:0130/085357.288:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+1月 30, 2024 08:53:57.289 [11804:11724:0130/085357.288:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+1月 30, 2024 08:53:57.290 [11804:11724:0130/085357.290:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+1月 30, 2024 10:12:04.505 [11804:13576:0130/101204.505:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+1月 30, 2024 10:45:13.966 NEW SESSION
+1月 30, 2024 10:45:13.966 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 30, 2024 10:54:44.143 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+1月 30, 2024 11:19:47.758 [13360:7596:0130/111947.758:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost

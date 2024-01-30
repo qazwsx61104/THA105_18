@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="J2EE_EXPORT_OVERWRITE" value="false"/>
+	<item key="J2EE_EXPORT_SOURCE" value="true"/>
+	<list key="J2EE_IMPORT_null">
+		<item value="C:\Users\EX14\Downloads\WebSocketChatWeb.war"/>
+		<item value="C:\Users\EX14\Downloads\CH12-ServletContextListener_CH13-Filter.war"/>
+		<item value="C:\JavaEE\SL314_Servlet-JSP課程分享\SL314_Servlet5課程分享\SL314_課程中分享\15_MVC_Tag(webapps)-2\IBM_MVC_Upgrade(測試war)\IBM_MVC_Upgrade.war"/>
+		<item value="C:\JavaEE\SL314_Servlet-JSP課程分享\SL314_Servlet5課程分享\SL314_課程中分享\15_MVC_Tag(webapps)\IBM_MVC(測試war)\IBM_MVC.war"/>
+		<item value="C:\Users\EX14\Desktop\JavaEE\SL314_Servlet-JSP課程分享\SL314_Servlet5課程分享\SL314_課程中分享\07_上傳(webapps)\WebApp_ch04_FileUpload_Ver1.war"/>
+		<item value="C:\Users\EX14\Desktop\JavaEE\SL314_Servlet-JSP課程分享\SL314_Servlet5課程分享\SL314_課程中分享\22B_●emp_MVC_Basic (mySQL8●)\IBM_emp_0201MVC_Single-Table_mySQL8_Join.war"/>
+	</list>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="Apache Tomcat v9.0"/>
+	</list>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="C:\THA105_WebApp\apache-tomcat-9.0.65\webapps\THA105_C_myMaven1.war"/>
+		<item value="C:\THA105_WebApp\apache-tomcat-9.0.65\webapps\Servlet4.war"/>
+		<item value="C:\THA105_WebApp\apache-tomcat-9.0.65\webapps\IBM_9\Servlet4.war"/>
+		<item value="C:\THA105_WebApp\apache-tomcat-9.0.65\webapps\IBM2.war"/>
+	</list>
+</section>

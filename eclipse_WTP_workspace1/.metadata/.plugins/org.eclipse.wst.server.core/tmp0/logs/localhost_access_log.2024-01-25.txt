@@ -1,0 +1,15 @@
+127.0.0.1 - - [25/Jan/2024:18:03:31 +0800] "GET / HTTP/1.1" 200 783
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:18:03:34 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/emp/select_page.jsp HTTP/1.1" 200 3191
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:18:03:35 +0800] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [25/Jan/2024:19:07:53 +0800] "GET / HTTP/1.1" 200 783
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:19:07:55 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/emp/select_page.jsp HTTP/1.1" 200 3541
+127.0.0.1 - - [25/Jan/2024:19:41:32 +0800] "GET / HTTP/1.1" 200 783
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:19:41:33 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/emp/listAllEmp.jsp HTTP/1.1" 200 4411
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:19:41:33 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/emp/images/back1.gif HTTP/1.1" 200 16042
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:20:09:22 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/emp/select_page.jsp HTTP/1.1" 200 4724
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:20:19:06 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/emp/addEmp.jsp HTTP/1.1" 200 6287
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:20:19:06 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/emp/images/tomcat.png HTTP/1.1" 200 350689
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:20:19:06 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/datetimepicker/jquery.js HTTP/1.1" 200 93107
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:20:19:06 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/datetimepicker/jquery.datetimepicker.full.js HTTP/1.1" 200 117222
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:20:19:06 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/datetimepicker/jquery.datetimepicker.css HTTP/1.1" 200 18419
+0:0:0:0:0:0:0:1 - - [25/Jan/2024:20:19:20 +0800] "GET /IBM_emp_0201MVC_Single-Table_mySQL8/emp/addEmp.jsp HTTP/1.1" 200 6287

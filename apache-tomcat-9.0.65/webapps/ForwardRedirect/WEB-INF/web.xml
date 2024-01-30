@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                      http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+  version="3.0"
+  metadata-complete="false">
+
+
+    <servlet>
+		    <servlet-name>Forward</servlet-name>
+		    <servlet-class>Forward</servlet-class>
+	  </servlet>
+	  <servlet-mapping>
+		    <servlet-name>Forward</servlet-name>
+		    <url-pattern>/order/Forward</url-pattern>
+	  </servlet-mapping>
+    
+    <servlet>
+		    <servlet-name>Include</servlet-name>
+		    <servlet-class>Include</servlet-class>
+	  </servlet>
+	  <servlet-mapping>
+		    <servlet-name>Include</servlet-name>
+		    <url-pattern>/Include</url-pattern>
+	  </servlet-mapping>
+	  
+	  <servlet>
+		    <servlet-name>Goto</servlet-name>
+		    <servlet-class>Goto</servlet-class>
+	  </servlet>
+	  <servlet-mapping>
+		    <servlet-name>Goto</servlet-name>
+		    <url-pattern>/Goto</url-pattern>
+	  </servlet-mapping>
+    
+</web-app>

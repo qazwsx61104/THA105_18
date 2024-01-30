@@ -1,0 +1,40 @@
+package com.ad.model;
+
+import java.sql.Timestamp;
+
+public class AdService {
+	
+	private AdDAO_interface dao;
+
+	public AdService(){
+		dao = new AdDAO();
+	}
+	
+	public AdVO addAd( Integer sellerId, byte[] adImg , Timestamp adImgUploadTime , String adName,
+			String adUrl , Timestamp adStartTime , Timestamp adEndTime , Integer adLv, String adMemo ,
+			Boolean isAdConfirm, Timestamp adCreateTime , Boolean isEnabled) {
+		
+		AdVO adVO = new AdVO();		
+		
+		adVO.setSellerId(sellerId);
+		adVO.setAdImg(adImg);
+		adVO.setAdImgUploadTime(adImgUploadTime);
+		adVO.setAdName(adName);
+		adVO.setAdUrl(adName);
+		adVO.setAdStartTime(adStartTime);
+		adVO.setAdEndTime(adEndTime);
+		adVO.setAdLv(adLv);
+		adVO.setAdMemo(adMemo);
+		adVO.setIsAdConfirm(isAdConfirm);
+		adVO.setAdCreateTime(adCreateTime);
+		adVO.setIsEnabled(isEnabled);
+		dao.insert(adVO);
+		
+		return adVO;
+		
+	}
+	
+	
+}
+	
+

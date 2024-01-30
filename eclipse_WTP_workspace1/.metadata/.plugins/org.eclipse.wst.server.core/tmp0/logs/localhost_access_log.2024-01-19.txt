@@ -1,0 +1,17 @@
+127.0.0.1 - - [19/Jan/2024:15:53:48 +0800] "GET / HTTP/1.1" 200 783
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:15:53:56 +0800] "GET /IBM_emp_01MVC_Basic_mySQL8/emp/listAllEmp1_byDAO.jsp HTTP/1.1" 200 2521
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:15:53:56 +0800] "GET /IBM_emp_01MVC_Basic_mySQL8/emp/images/back1.gif HTTP/1.1" 200 16042
+127.0.0.1 - - [19/Jan/2024:17:28:15 +0800] "GET / HTTP/1.1" 200 783
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:28:16 +0800] "GET /THA105G1/WEB-INF/classes/com/emp/model/EmpJDBCDAO.java HTTP/1.1" 404 682
+127.0.0.1 - - [19/Jan/2024:17:37:35 +0800] "GET / HTTP/1.1" 200 783
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:37:43 +0800] "GET /THA105G1/listAllEmp1_byDAO.jsp HTTP/1.1" 200 2455
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:37:43 +0800] "GET /THA105G1/images/back1.gif HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:37:54 +0800] "GET /THA105G1/listAllEmp1_byDAO.jsp HTTP/1.1" 200 2464
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:38:41 +0800] "GET /THA105G1/listAllEmp1_byDAO.jsp?whichPage=5 HTTP/1.1" 200 2302
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:38:42 +0800] "GET /THA105G1/listAllEmp1_byDAO.jsp?whichPage=1 HTTP/1.1" 200 2464
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:38:43 +0800] "GET /THA105G1/listAllEmp1_byDAO.jsp?whichPage=2 HTTP/1.1" 200 2647
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:38:44 +0800] "GET /THA105G1/listAllEmp1_byDAO.jsp?whichPage=1 HTTP/1.1" 200 2464
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:38:44 +0800] "GET /THA105G1/listAllEmp1_byDAO.jsp?whichPage=2 HTTP/1.1" 200 2647
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:38:44 +0800] "GET /THA105G1/listAllEmp1_byDAO.jsp?whichPage=1 HTTP/1.1" 200 2464
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:38:45 +0800] "GET /THA105G1/listAllEmp1_byDAO.jsp?whichPage=2 HTTP/1.1" 200 2647
+0:0:0:0:0:0:0:1 - - [19/Jan/2024:17:38:45 +0800] "GET /THA105G1/listAllEmp1_byDAO.jsp?whichPage=1 HTTP/1.1" 200 2464

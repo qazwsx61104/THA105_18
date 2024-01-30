@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="HibernateEx-Web">
+        <property name="context-root" value="HibernateEx-Web"/>
+        <property name="java-output-path" value="/HibernateEx-Web/target/classes"/>
+    </wb-module>
+</project-modules>

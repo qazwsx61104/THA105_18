@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="
+        http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+        
+        
+
+	<bean id="lettuce" class=" com.tibame.lab.constructor.beans.Lettuce" />
+
+	<bean id="tomato" class="com.tibame.lab.constructor.beans.Tomato">
+		<constructor-arg type="java.lang.Integer" value="10" />
+	</bean>
+
+	<bean id="cheddarCheese" class=" com.tibame.lab.constructor.beans.CheddarCheese" >
+		<constructor-arg type="java.lang.String"  />
+	</bean>
+
+	<bean id="cheese" class=" com.tibame.lab.constructor.beans.Cheese" >
+		<constructor-arg type="java.lang.String" />
+	</bean>
+
+	<bean id="burger" class=" com.tibame.lab.constructor.beans.Burger">
+		<constructor-arg index="0" ref="cheddarCheese" />
+		<constructor-arg index="1" ref="cheese" />
+		<constructor-arg  index="2" ref="lettuce" />
+		<constructor-arg ref="tomato" />
+	</bean>
+
+
+
+
+
+
+
+</beans>

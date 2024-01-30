@@ -1,0 +1,10 @@
+package com.ad.model;
+
+public class AdService {
+	
+	private AdDAO_interface dao;
+
+	public AdService(){
+		dao = new AdDAO();
+	}
+}
